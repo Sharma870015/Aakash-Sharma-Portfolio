@@ -1,0 +1,16 @@
+.for-btn {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 2px;
+    background: #55e;
+    color: white;
+    font-size: 12px;
+  }
+  .for-btn:hover{
+    background-color: rgb(56, 56, 56);
+  }
+  body{
+    background: linear-gradient(135deg, rgba(70, 130, 180, 0.8), rgba(255, 105, 180, 0.8));
+    background-size: 200% 200%;
+    animation: gradientAnimation 12s ease infinite;
+  }
